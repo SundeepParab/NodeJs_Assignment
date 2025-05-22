@@ -1,0 +1,23 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Alice Johnson",
+    "designation": "Software Engineer",
+    "department": "Development",
+    "project_id": "P1001"
+  },
+  {
+    "employee_id": "E002",
+    "name": "Bob Smith",
+    "designation": "Data Analyst",
+    "department": "Analytics",
+    "project_id": "P1002"
+  },
+  {
+    "employee_id": "E003",
+    "name": "Charlie Lee",
+    "designation": "UX Designer",
+    "department": "Design",
+    "project_id": "P1003"
+  }
+]
