@@ -1,0 +1,62 @@
+db.movies.insert([
+  {
+    name: "3 Idiots",
+    genre: "Comedy, Drama",
+    rating: 8.4,
+    language: "Hindi"
+  },
+  {
+    name: "Dangal",
+    genre: "Biography, Drama, Sport",
+    rating: 8.3,
+    language: "Hindi"
+  },
+  {
+    name: "Lagaan",
+    genre: "Drama, History, Sport",
+    rating: 8.1,
+    language: "Hindi"
+  },
+  {
+    name: "Gully Boy",
+    genre: "Drama, Music",
+    rating: 7.9,
+    language: "Hindi"
+  },
+  {
+    name: "Sholay",
+    genre: "Action, Adventure, Comedy",
+    rating: 8.1,
+    language: "Hindi"
+  },
+  {
+    name: "Zindagi Na Milegi Dobara",
+    genre: "Adventure, Comedy, Drama",
+    rating: 8.2,
+    language: "Hindi"
+  },
+  {
+    name: "Kahaani",
+    genre: "Mystery, Thriller",
+    rating: 8.1,
+    language: "Hindi"
+  },
+  {
+    name: "Taare Zameen Par",
+    genre: "Drama, Family",
+    rating: 8.4,
+    language: "Hindi"
+  },
+  {
+    name: "Barfi!",
+    genre: "Comedy, Drama, Romance",
+    rating: 8.1,
+    language: "Hindi"
+  },
+  {
+    name: "Andhadhun",
+    genre: "Crime, Comedy, Thriller",
+    rating: 8.2,
+    language: "Hindi"
+  }
+]);
